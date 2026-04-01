@@ -26,8 +26,8 @@ iOS разработчик (Swift,SwiftUI)
 
 ### 🛠 Технологии и инструменты
 
-![Static Badge](https://img.shields.io/badge/Swift-orange?logo=Swift&logoColor=white&labelColor=orange)
-![Static Badge](https://img.shields.io/badge/SwiftUI-orange?logo=Swift&logoColor=white&labelColor=orange)
+![Static Badge](https://img.shields.io/badge/Swift-%23F05138?logo=swift&logoColor=white&labelColor=%23F05138)
+![Static Badge](https://img.shields.io/badge/SwiftUI-%23F05138?logo=swift&logoColor=white&labelColor=%23F05138)
 ![Static Badge](https://img.shields.io/badge/SwiftData-blue?logo=Swift&logoColor=white&labelColor=blue)
 ![Static Badge](https://img.shields.io/badge/Git-%23F05032?logo=Git&logoColor=white&labelColor=%23F05032)
 ![Static Badge](https://img.shields.io/badge/GitHub-%23181717?logo=GitHub&logoColor=white&labelColor=%23181717)
