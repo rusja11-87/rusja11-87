@@ -35,7 +35,9 @@ iOS разработчик (Swift,SwiftUI)
 
 ### Статистика GitHub
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats/6A2hma5prZaVkNGvSzvg7Nevtym3/api?username=rusja11-87&show_icons=true)
+
+
 ### 🎯 Сейчас изучаю
 
 - Swift Concurrency
