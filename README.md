@@ -1,16 +1,36 @@
-## Hi there 👋
+# Welcome to My GitHub Profile
 
-<!--
-**rusja11-87/rusja11-87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Привет, я Руслан
 
-Here are some ideas to get you started:
+iOS разработчик (Swift,SwiftUI)  
+Создаю приложения с чистой архитектурой (MVVM / MVP / VIPER)  
+Работаю с API, многопоточностью и современными Apple-фреймворками
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Обо мне
+
+- 📱 Разрабатываю iOS-приложения на Swift
+- 🧠 Изучаю архитектуры: MVVM, MVP
+- 🌐 Работаю с REST API (URLSession, Codable)
+- 💾 Использую UserDefaults, SwiftData
+- 🎯 Решаю задачи на LeetCode
+
+### 🛠 Стек
+
+- Swift
+- UIKit / SwiftUI
+- URLSession
+- GCD / async-await
+- Git / GitHub
+- Auto Layout
+
+### 🎯 Сейчас изучаю
+
+- Swift Concurrency
+- Архитектуру VIPER глубже
+- Оптимизацию производительности
+
+### 📫 Контакты
+
+- Email: rusja11.8797@gmail.com
+- Telegram: @rusja11_87
+
