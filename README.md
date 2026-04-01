@@ -32,6 +32,7 @@ iOS разработчик (Swift,SwiftUI)
 ![Static Badge](https://img.shields.io/badge/Xcode-%23147EFB?logo=xcode&logoColor=white&labelColor=%23147EFB)
 ![Static Badge](https://img.shields.io/badge/Git-%23F05032?logo=Git&logoColor=white&labelColor=%23F05032)
 ![Static Badge](https://img.shields.io/badge/GitHub-%23181717?logo=GitHub&logoColor=white&labelColor=%23181717)
+![Static Badge](https://img.shields.io/badge/Figma-%23F24E1E?logo=Figma&logoColor=white)
 
 ### Статистика GitHub
 
