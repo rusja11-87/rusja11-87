@@ -24,11 +24,15 @@ iOS разработчик (Swift,SwiftUI)
 - Git / GitHub
 - Auto Layout
 
+![Static Badge](https://img.shields.io/badge/SwiftUI-orange)
+
+
 ### 🎯 Сейчас изучаю
 
 - Swift Concurrency
 - Архитектуру VIPER глубже
 - Оптимизацию производительности
+ 
 ---
 ### 📫 Контакты
 
