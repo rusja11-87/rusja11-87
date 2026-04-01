@@ -33,6 +33,10 @@ iOS разработчик (Swift,SwiftUI)
 ![Static Badge](https://img.shields.io/badge/Git-%23F05032?logo=Git&logoColor=white&labelColor=%23F05032)
 ![Static Badge](https://img.shields.io/badge/GitHub-%23181717?logo=GitHub&logoColor=white&labelColor=%23181717)
 
+### Статистика GitHub
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rusja11-87)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🎯 Сейчас изучаю
 
 - Swift Concurrency
