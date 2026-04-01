@@ -35,8 +35,7 @@ iOS разработчик (Swift,SwiftUI)
 
 ### Статистика GitHub
 
-![GitHub stats](https://github-readme-stats/6A2hma5prZaVkNGvSzvg7Nevtym3/api?username=rusja11-87&show_icons=true)
-
+![GitHub stats](https://github-readme-stats-nine-pearl-15.vercel.app/api?username=rusja11-87&show_icons=true&theme=tokyonight)
 
 ### 🎯 Сейчас изучаю
 
